@@ -46,3 +46,6 @@ Build smart cc camera,
 No gender 
 No country 
 No age revealing
+
+2021:
+Restaurant on Bangalore-Hyderabad highway
