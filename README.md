@@ -26,6 +26,11 @@ Build something around advertising
 
 2018:
 
+Story: got so obsessed with inshorts and started a page in fb
+Name: Stuff and Facts
+tried a new way to tell the news using memes,
+I call it mews.
+
 Health bots,
 
 Build an app for prototypes,
