@@ -60,7 +60,16 @@ ps: working means mostly thinking :D
 idea: an app where u can stream videos to multiple platforms concurrently.
 
 2021:
-Restaurant on Bangalore-Hyderabad highway.
+Restaurant on Bangalore-Hyderabad highway. (sjr)
 
 story: I have an itch to build a social app :)
 idea: A social app where u can share to what song you are listening with your friends.
+
+Build a matrimonial app like tinder...swipe left/right and using AI...suggest a right match.
+
+Build a mock interview app...where it connects with the desired person 
+Ex: if you want to work for google maps and you have an interview with google...you can take a mock interview with google maps employee.
+
+Build a mentor booking ...
+
+
