@@ -1,6 +1,9 @@
 # Yuva
 Nirvana
 
+Ideas without action aren’t ideas. They’re regrets.’
+ –Steve Jobs
+
 yo....I'm surprised to see you here.
 
 welcum to shitty place mate :}
