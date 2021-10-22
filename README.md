@@ -77,3 +77,4 @@ Build a mentor booking ...
 
 Financial news in byte size format 
 
+Fintech - Offer loans with equity/options/futures as collateral
