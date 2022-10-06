@@ -78,3 +78,6 @@ Build a mentor booking ...
 Financial news in byte size format 
 
 Fintech - Offer loans with equity/options/futures as collateral
+
+2022:
+Feature Toggle SAAS product
